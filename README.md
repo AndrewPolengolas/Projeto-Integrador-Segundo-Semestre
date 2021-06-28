@@ -20,7 +20,7 @@ Tela de Navegação;
 
 ​	● Tela de navegação, onde o vendedor poderá navegar pelas diversas telas; 
 
-![telaNavagacao](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\telaNavagacao.png)
+![telaNavagacao](AndrewPolengolas/Projeto-Integrador-Segundo-Semestre\documentation\telaNavagacao.png)
 
 
 
