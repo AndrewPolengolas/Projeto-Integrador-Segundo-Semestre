@@ -12,7 +12,7 @@ Tela de Login;
 
 
 
-![telaLogin](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\telaLogin.png)
+![telaLogin](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/telaLogin.png)
 
 
 
@@ -20,7 +20,7 @@ Tela de Navegação;
 
 ​	● Tela de navegação, onde o vendedor poderá navegar pelas diversas telas; 
 
-![telaNavagacao](AndrewPolengolas/Projeto-Integrador-Segundo-Semestre\documentation\telaNavagacao.png)
+![telaNavagacao](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/telaNavagacao.png)
 
 
 
@@ -33,7 +33,7 @@ Tela de Produtos;
  	3. Alterar dados de produtos existentes;  
  	4. Excluir produtos existentes. 
 
-![TelaProdutos](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\TelaProdutos.png)
+![TelaProdutos](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/TelaProdutos.png)
 
 
 
@@ -41,7 +41,7 @@ Tela de Cadastro Produtos;
 
 ​	● Tela de cadastro de produtos, onde o vendedor deverá adicionar novos produtos; 
 
-![cadastroProdutos](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\cadastroProdutos.png)
+![cadastroProdutos](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/cadastroProdutos.png)
 
 
 
@@ -49,7 +49,7 @@ Tela de Alteração de dados Produtos;
 
 ​	● Tela de alteração de dados de produtos; 
 
-![alterarProdutos](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\alterarProdutos.png)
+![alterarProdutos](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/alterarProdutos.png)
 
 
 
@@ -62,7 +62,7 @@ Tela de Clientes;
 3. Alterar dados de clientes existentes;  
 4. Excluir clientes existentes. 
 
-![telaClientes](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\telaClientes.png)
+![telaClientes](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/telaClientes.png)
 
 
 
@@ -70,7 +70,7 @@ Tela de Cadastro Clientes;
 
 ​	● Tela de cadastro de clientes, onde o vendedor poderá adicionar novos clientes; 
 
-![cadastroClientes](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\cadastroClientes.png)
+![cadastroClientes](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/cadastroClientes.png)
 
 
 
@@ -78,7 +78,7 @@ Tela de Alteração de dados Cliente;
 
 ​	● Tela de alteração dos dados de cliente; 
 
-![alterarClientes](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\alterarClientes.png)
+![alterarClientes](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/alterarClientes.png)
 
 
 
@@ -92,7 +92,7 @@ Tela de Vendas;
 
 
 
-![TelaVendas](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\TelaVendas.png)
+![TelaVendas](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/TelaVendas.png)
 
 
 
@@ -103,4 +103,4 @@ Tela de Relatórios;
 1. Relatório Sintético por período;  
 2. Relatório Analítico por venda.
 
-![Relatorios](C:\Users\andre\OneDrive\Documentos\NetBeansProjects\Projeto_Integrador\documentation\Relatorios.png)
+![Relatorios](https://github.com/AndrewPolengolas/Projeto-Integrador-Segundo-Semestre/blob/main/documentation/Relatorios.png)
