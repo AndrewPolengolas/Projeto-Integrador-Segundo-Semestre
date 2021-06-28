@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/andre/.m2/repository/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar;C:/Users/andre/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar;C:/Users/andre/.m2/repository/com/toedter/jcalendar/1.4/jcalendar-1.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/andre/OneDrive/Documentos/NetBeansProjects/Projeto_Integrador/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/andre/OneDrive/Documentos/NetBeansProjects/Projeto_Integrador/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PI-Marco2 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/andre/OneDrive/Documentos/NetBeansProjects/Projeto_Integrador/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'PI-Marco2 1.0-SNAPSHOT API'
